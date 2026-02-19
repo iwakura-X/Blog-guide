@@ -1,0 +1,7 @@
+## EN
+This is a simple informational project about how to start your own blog in the social networks. Some of them was concsidered in the presentation. Anyway check out the presentation, all of the info is there. The passport is containing the information ABOUT the project, not the project itself.
+
+## RU
+Это простой информационный проект на тему того, как начать вести свой собственный блог в социальных сетях. Некоторые из этих сетей и не только были рассмотрены в презентации. В любом случае смотрите презентацию - вся информация там. Паспорт содержит основную информацию о проекте.
+
+
